@@ -29,7 +29,7 @@ typedef struct SNode
     struct SNode* pNext;
 } Snode;
 
-Snode* ListInitAndRead();
+Snode* ListInitReadWrite();
 
 void AddElemToEndOfList(Snode** pHead, Snode* pNextNode);
 

@@ -5,7 +5,7 @@
 #include "functions.h"
 //--------------------------------------------------------------------------------
 
-Snode* ListInitAndRead()
+Snode* ListInitReadWrite()
 {
     FILE* outputList;
     outputList = fopen("C:\\Users\\Max Gll\\source\\repos\\Lab08_Task\\Lab08_Task\\outputList.bin", "rb");

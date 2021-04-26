@@ -7,7 +7,7 @@
 int main()
 {
     Snode* pHead;
-    pHead = ListInitAndRead();
+    pHead = ListInitReadWrite();
 
     printf("Before:\n");
 
