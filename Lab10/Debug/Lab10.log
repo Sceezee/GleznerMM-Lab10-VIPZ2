@@ -1,0 +1,6 @@
+﻿  functions.c
+C:\Users\Max Gll\source\repos\Lab10\Lab10\functions.c(16,17): warning C4047: return: "Snode *" отличается по уровням косвенного обращения от "int"
+C:\Users\Max Gll\source\repos\Lab10\Lab10\functions.c(27,11): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+  main.c
+  Создание кода...
+  Lab10.vcxproj -> C:\Users\Max Gll\source\repos\Lab10\Debug\Lab10.exe
